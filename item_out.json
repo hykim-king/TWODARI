@@ -1,0 +1,29 @@
+{
+  "listOut": [
+    {
+      "name": "가디건",
+      "price": 10000,
+      "size": "s"
+    },
+    {
+      "name": "점퍼",
+      "price": 20000,
+      "size": "s"
+    },
+    {
+      "name": "자켓",
+      "price": 30000,
+      "size": "s"
+    },
+    {
+      "name": "코트",
+      "price": 40000,
+      "size": "s"
+    },
+    {
+      "name": "패딩",
+      "price": 50000,
+      "size": "s"
+    }
+  ]
+}
