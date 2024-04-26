@@ -15,6 +15,10 @@ public class ItemDTO extends DTO {
 		this.size = size;
 	}
 
+	public ItemDTO() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public String getName() {
 		return name;
 	}
@@ -41,7 +45,9 @@ public class ItemDTO extends DTO {
 
 	@Override
 	public String toString() {
-		return "ItemDTO [name=" + name + ", price=" + price + ", size=" + size + "]";
+		return "\n"
+				+ "◆◆◆ 상품명: " + name + ", 가격: " + price + ", 사이즈: " + size;
+		
 	}
 	
 	

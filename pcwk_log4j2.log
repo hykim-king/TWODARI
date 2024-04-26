@@ -1,70 +1,997 @@
 data count : 0
-item_bt.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_top.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_hat.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-ì €ì¥ê±´ìˆ˜: 15
 data count : 0
-item_bt.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-doUpdate_bt()
-flag: 1
-flag: 1
-â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-[í•˜ì˜]ë¥¼ ìˆ˜ì •ì— ì„±ê³µ í–ˆìŠµë‹ˆë‹¤.
-â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 data count : 0
-item_bt.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-doDelete()
 data count : 0
-flag : 1
------------
-ë‹¨ê±´ ì‚­ì œ ì„±ê³µ!
------------
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+ÇØ´ç[ÇÏÀÇ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+doReadFile()
 data count : 0
-item_bt.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-doDelete()
+doReadFile()
 data count : 0
-flag : 1
------------
-ë‹¨ê±´ ì‚­ì œ ì„±ê³µ!
------------
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+ÇØ´ç[ÇÏÀÇ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+doReadFile()
 data count : 0
-item_bt.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
+doReadFile()
 data count : 0
-item_bt.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-doUpdate_bt()
-flag: 1
-flag: 1
-â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-[í•˜ì˜]ë¥¼ ìˆ˜ì •ì— ì„±ê³µ í–ˆìŠµë‹ˆë‹¤.
-â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+ÇØ´ç[ÇÏÀÇ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+doReadFile()
 data count : 0
-item_bt.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_top.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_hat.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_sh.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-ì €ì¥ê±´ìˆ˜: 20
+doReadFile()
 data count : 0
-item_bt.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_top.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_hat.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_sh.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-ì €ì¥ê±´ìˆ˜: 20
+intput: Ã»¹ÙÁö
+param: ItemDTO [name=Ã»¹ÙÁö, price=0, size=null]
+outVO: ItemDTO [name=Ã»¹ÙÁö, price=30000, size=110]
+doReadFile()
 data count : 0
-item_bt.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_top.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_hat.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_sh.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-ì €ì¥ê±´ìˆ˜: 20
+doReadFile()
 data count : 0
-item_bt.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_top.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_hat.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_sh.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-ì €ì¥ê±´ìˆ˜: 20
+doReadFile()
 data count : 0
-item_bt.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_top.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_out.jsonì•„ìš°í„° íŒŒì¼ìƒì„±ì™„ë£Œ
-item_hat.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-item_sh.jsoníŒŒì¼ìƒì„±ì™„ë£Œ
-ì €ì¥ê±´ìˆ˜: 25
+doReadFile()
+data count : 0
+doReadFile()
+data count : 0
+doReadFile()
+data count : 0
+intput: Ã»¹ÙÁö
+param: ItemDTO [name=Ã»¹ÙÁö, price=0, size=null]
+outVO: null
+doReadFile()
+data count : 0
+doReadFile()
+data count : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+[ÇÏÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+doReadFile()
+data count : 0
+doReadFile()
+data count : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+[ÇÏÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+doReadFile()
+data count : 0
+doReadFile()
+data count : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+[ÇÏÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+doReadFile()
+data count : 0
+doReadFile()
+data count : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»ÀÚºñ
+ÇØ´ç[ÇÏÀÇ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+doReadFile()
+data count : 0
+doReadFile()
+data count : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+[ÇÏÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+doReadFile()
+data count : 0
+doReadFile()
+data count : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+[ÇÏÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+intput: Ã»¹ÙÁö
+param: ItemDTO [name=Ã»¹ÙÁö, price=0, size=null]
+outVO: ItemDTO [name=Ã»¹ÙÁö, price=100, size=110]
+doReadFile()
+data count : 0
+doReadFile()
+data count : 0
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+ÇØ´ç[»óÀÇ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+doReadFile()
+doReadFile()
+data count : 0
+doReadFile()
+data count : 0
+doReadFile()
+doReadFile()
+data count : 0
+doReadFile()
+doReadFile()
+data count : 0
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+ÇØ´ç[»óÀÇ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+doReadFile()
+doReadFile()
+data count : 0
+doReadFile()
+doReadFile()
+data count : 0
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+ÇØ´ç[»óÀÇ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+[ÇÏÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+doReadFile()
+data count : 0
+doReadFile()
+data count : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+ÇØ´ç[ÇÏÀÇ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+doReadFile()
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+doReadFile()
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+ÇØ´ç[»óÀÇ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+doReadFile()
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+doReadFile()
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+ÇØ´ç[ÇÏÀÇ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+doReadFile()
+doReadFile()
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+doReadFile()
+doReadFile()
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+ÇØ´ç[ÇÏÀÇ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+doReadFile()
+data count : 0
+doReadFile()
+data count : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+doReadFile()
+data count : 0
+data count : 0
+doReadFile()
+data count : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+doReadFile()
+data count : 0
+data count : 0
+doReadFile()
+data count : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+[ÇÏÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+intput: Ã»¹ÙÁö
+param: [ItemDTO] »óÇ°¸í=Ã»¹ÙÁö, °¡°İ=0, »çÀÌÁî=null]
+outVO: [ItemDTO] »óÇ°¸í=Ã»¹ÙÁö, °¡°İ=100, »çÀÌÁî=12]
+doReadFile()
+doReadFile()
+doReadFile()
+data count : 0
+data count : 0
+doReadFile()
+data count : 0
+doReadFile()
+data count : 0
+data count : 0
+doReadFile()
+data count : 0
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+ÇØ´ç[»óÀÇ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+doReadFile()
+data count : 0
+data count : 0
+doReadFile()
+data count : 0
+intput: Ã»¹ÙÁö
+param: [ItemDTO] »óÇ°¸í: Ã»¹ÙÁö, °¡°İ: 0, »çÀÌÁî: null]
+outVO: [ItemDTO] »óÇ°¸í: Ã»¹ÙÁö, °¡°İ: 30000, »çÀÌÁî: 110]
+doReadFile()
+data count : 0
+doReadFile()
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+ÇØ´ç[»óÀÇ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+doReadFile()
+data count : 0
+doReadFile()
+doReadFile()
+data count : 0
+doReadFile()
+doReadFile()
+data count : 0
+doReadFile()
+doReadFile()
+data count : 0
+doReadFile()
+intput: ¹İÆÈÆ¼
+param: [ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 0, »çÀÌÁî: null]
+outVO: null
+doReadFile()
+data count : 0
+doReadFile()
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+ÇØ´ç[ÇÏÀÇ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+doReadFile()
+data count : 0
+doReadFile()
+intput: ¹İÆÈÆ¼
+param: [ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 0, »çÀÌÁî: null]
+outVO: [ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 10000, »çÀÌÁî: 95]
+intput: Ã»¹ÙÁö
+param: [ItemDTO] »óÇ°¸í: Ã»¹ÙÁö, °¡°İ: 0, »çÀÌÁî: null]
+outVO: null
+data count : 0
+data count : 0
+data count : 0
+data count : 0
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+[»óÀÇ]¾÷µ¥ÀÌÆ®¿¡ ½ÇÆĞÇß½À´Ï´Ù.
+data count : 0
+data count : 0
+data count : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+ÇØ´ç[ÇÏÀÇ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+data count : 0
+doReadFile()
+data count bottom: 0
+data count : 0
+data count : 0
+doReadFile()
+data count bottom: 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+[ÇÏÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+[»óÀÇ]¾÷µ¥ÀÌÆ®¿¡ ½ÇÆĞÇß½À´Ï´Ù.
+data count : 0
+doReadFile()
+data count bottom: 0
+data count : 0
+data count : 0
+doReadFile()
+data count bottom: 0
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+[»óÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+intput: ¹İÆÈÆ¼
+param: [ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 0, »çÀÌÁî: null]
+outVO: null
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[¾Æ¿ìÅÍ]ÀÌ¸§: Á¡ÆÛ
+ÇØ´ç[¾Æ¿ìÅÍ]ÀÌ/°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[¾Æ¿ìÅÍ]ÀÌ¸§: Á¡ÆÛ
+[¾Æ¿ìÅÍ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+[ÇÏÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+intput: Ã»¹ÙÁö
+param: [ItemDTO] »óÇ°¸í: Ã»¹ÙÁö, °¡°İ: 0, »çÀÌÁî: null]
+outVO: [ItemDTO] »óÇ°¸í: Ã»¹ÙÁö, °¡°İ: 10, »çÀÌÁî: 10]
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+[»óÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+[ÇÏÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+[ÇÏÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+[»óÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+[ÇÏÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+[»óÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[¾Æ¿ìÅÍ]ÀÌ¸§: Á¡ÆÛ
+[¾Æ¿ìÅÍ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[¾Æ¿ìÅÍ]ÀÌ¸§: Á¡ÆÛ
+[¾Æ¿ìÅÍ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+intput: Á¡ÆÛ
+param: [ItemDTO] »óÇ°¸í: Á¡ÆÛ, °¡°İ: 0, »çÀÌÁî: null]
+outVO: null
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+item: [ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 10000, »çÀÌÁî: 95]
+[»óÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+intput: ¹İÆÈÆ¼
+param: [ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 0, »çÀÌÁî: null]
+outVO: null
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+doSelectOne_top: [ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 10000, »çÀÌÁî: 95]
+item: [ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 10000, »çÀÌÁî: 95]
+[»óÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+intput: ¹İÆÈÆ¼
+param: [ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 0, »çÀÌÁî: null]
+outVO: null
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+doSelectOne_top: [ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 10000, »çÀÌÁî: 95]
+item: [ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 10000, »çÀÌÁî: 95]
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+intput: ¹İÆÈÆ¼
+param: [ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 0, »çÀÌÁî: null]
+outVO: null
+intput: ¹İÆÈÆ¼
+param: [ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 0, »çÀÌÁî: null]
+outVO: null
+intput: ±ä¹ÙÁö
+param: [ItemDTO] »óÇ°¸í: ±ä¹ÙÁö, °¡°İ: 0, »çÀÌÁî: null]
+outVO: [ItemDTO] »óÇ°¸í: ±ä¹ÙÁö, °¡°İ: 10000, »çÀÌÁî: 90]
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[ÇÏÀÇ]ÀÌ¸§: Ã»¹ÙÁö
+[ÇÏÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+data count : 0
+intput: Ã»¹ÙÁö
+param: [ItemDTO] »óÇ°¸í: Ã»¹ÙÁö, °¡°İ: 0, »çÀÌÁî: null]
+outVO: [ItemDTO] »óÇ°¸í: Ã»¹ÙÁö, °¡°İ: 2, »çÀÌÁî: 2]
+[¾Æ¿ìÅÍ]ÀÌ¸§: Á¡ÆÛ
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[»óÀÇ]ÀÌ¸§: ¹İÆÈÆ¼
+doSelectOne_top: [ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 10000, »çÀÌÁî: 95]
+item: [ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 10000, »çÀÌÁî: 95]
+[»óÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.
+[»óÀÇ]¼º°øÀûÀ¸·Î ¾÷µ¥ÀÌÆ®µÇ¾ú½À´Ï´Ù.[ItemDTO] »óÇ°¸í: ¹İÆÈÆ¼, °¡°İ: 2, »çÀÌÁî: 2]
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+doReadFile()
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[ì•„ìš°í„°]ì´ë¦„: ì í¼
+[ì•„ìš°í„°]ì„±ê³µì ìœ¼ë¡œ ì—…ë°ì´íŠ¸ë˜ì—ˆìŠµë‹ˆë‹¤.
+data count : 0
+intput: ì íŒŒ
+param: [ItemDTO] ìƒí’ˆëª…: ì íŒŒ, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null]
+outVO: null
+intput: ì í¼
+param: [ItemDTO] ìƒí’ˆëª…: ì í¼, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null]
+outVO: null
+[í•˜ì˜]ì´ë¦„: ê¸´ë°”ì§€
+[í•˜ì˜]ì„±ê³µì ìœ¼ë¡œ ì—…ë°ì´íŠ¸ë˜ì—ˆìŠµë‹ˆë‹¤.
+data count : 0
+intput: ê¸´ë°”ì§€
+param: [ItemDTO] ìƒí’ˆëª…: ê¸´ë°”ì§€, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null]
+outVO: [ItemDTO] ìƒí’ˆëª…: ê¸´ë°”ì§€, ê°€ê²©: 2000, ì‚¬ì´ì¦ˆ: 100]
+[ìƒì˜]ì´ë¦„: ë°˜íŒ”í‹°
+doSelectOne_top: [ItemDTO] ìƒí’ˆëª…: ë°˜íŒ”í‹°, ê°€ê²©: 10000, ì‚¬ì´ì¦ˆ: 95]
+item: [ItemDTO] ìƒí’ˆëª…: ë°˜íŒ”í‹°, ê°€ê²©: 10000, ì‚¬ì´ì¦ˆ: 95]
+[ìƒì˜]ì„±ê³µì ìœ¼ë¡œ ì—…ë°ì´íŠ¸ë˜ì—ˆìŠµë‹ˆë‹¤.
+[ìƒì˜]ì„±ê³µì ìœ¼ë¡œ ì—…ë°ì´íŠ¸ë˜ì—ˆìŠµë‹ˆë‹¤.[ItemDTO] ìƒí’ˆëª…: ë°˜íŒ”í‹°, ê°€ê²©: 20, ì‚¬ì´ì¦ˆ: 20]
+data count : 0
+intput: ë°˜íŒ”í‹°
+param: [ItemDTO] ìƒí’ˆëª…: ë°˜íŒ”í‹°, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null]
+outVO: null
+intput: ì²­ë°”ì§€
+param: [ItemDTO] ìƒí’ˆëª…: ì²­ë°”ì§€, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null]
+outVO: [ItemDTO] ìƒí’ˆëª…: ì²­ë°”ì§€, ê°€ê²©: 30000, ì‚¬ì´ì¦ˆ: 110]
+intput: ë°˜íŒ”í‹°
+param: [ItemDTO] ìƒí’ˆëª…: ë°˜íŒ”í‹°, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null]
+outVO: null
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+intput: ê°€ë””ê±´
+param: [ItemDTO] ìƒí’ˆëª…: ê°€ë””ê±´, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null]
+outVO: null
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[ì•„ìš°í„°]ì´ë¦„: ê°€ë””ê±´
+itemDTO: [ItemDTO] ìƒí’ˆëª…: ê°€ë””ê±´, ê°€ê²©: 10000, ì‚¬ì´ì¦ˆ: s]
+[ì•„ìš°í„°]ì„±ê³µì ìœ¼ë¡œ ì—…ë°ì´íŠ¸ë˜ì—ˆìŠµë‹ˆë‹¤.
+data count : 0
+intput: ê°€ë””ê±´
+param: [ItemDTO] ìƒí’ˆëª…: ê°€ë””ê±´, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null]
+itemDTO: [ItemDTO] ìƒí’ˆëª…: ê°€ë””ê±´, ê°€ê²©: 1, ì‚¬ì´ì¦ˆ: 1]
+outVO: [ItemDTO] ìƒí’ˆëª…: ê°€ë””ê±´, ê°€ê²©: 1, ì‚¬ì´ì¦ˆ: 1]
+intput: 3
+param: [ItemDTO] ìƒí’ˆëª…: 3, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null]
+outVO: null
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+intput: ê°€ë””ê±´
+param: [ItemDTO] ìƒí’ˆëª…: ê°€ë””ê±´, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null]
+itemDTO: [ItemDTO] ìƒí’ˆëª…: ê°€ë””ê±´, ê°€ê²©: 10000, ì‚¬ì´ì¦ˆ: s]
+outVO: [ItemDTO] ìƒí’ˆëª…: ê°€ë””ê±´, ê°€ê²©: 10000, ì‚¬ì´ì¦ˆ: s]
+[ì•„ìš°í„°]ì´ë¦„: ê°€ë””ë„ˆ
+itemDTO: null
+í•´ë‹¹[ì•„ìš°í„°]ì´/ê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+intput: ê°€ë””ê±´
+param: [ItemDTO] ìƒí’ˆëª…: ê°€ë””ê±´, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null]
+itemDTO: [ItemDTO] ìƒí’ˆëª…: ê°€ë””ê±´, ê°€ê²©: 10000, ì‚¬ì´ì¦ˆ: s]
+outVO: [ItemDTO] ìƒí’ˆëª…: ê°€ë””ê±´, ê°€ê²©: 10000, ì‚¬ì´ì¦ˆ: s]
+[ì•„ìš°í„°]ì´ë¦„: ê°€ë””ê±´
+itemDTO: [ItemDTO] ìƒí’ˆëª…: ê°€ë””ê±´, ê°€ê²©: 10000, ì‚¬ì´ì¦ˆ: s]
+[ì•„ìš°í„°]ì„±ê³µì ìœ¼ë¡œ ì—…ë°ì´íŠ¸ë˜ì—ˆìŠµë‹ˆë‹¤.
+data count : 0
+intput: ê°€ë””ê±´
+param: [ItemDTO] ìƒí’ˆëª…: ê°€ë””ê±´, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null]
+itemDTO: [ItemDTO] ìƒí’ˆëª…: ê°€ë””ê±´, ê°€ê²©: 1, ì‚¬ì´ì¦ˆ: 1]
+outVO: [ItemDTO] ìƒí’ˆëª…: ê°€ë””ê±´, ê°€ê²©: 1, ì‚¬ì´ì¦ˆ: 1]
+[í•˜ì˜]ì´ë¦„: ê¸´ë°”ì§€
+[í•˜ì˜]ì„±ê³µì ìœ¼ë¡œ ì—…ë°ì´íŠ¸ë˜ì—ˆìŠµë‹ˆë‹¤.
+data count : 0
+intput: ê¸´ë°”ì§€
+param: [ItemDTO] ìƒí’ˆëª…: ê¸´ë°”ì§€, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null]
+outVO: [ItemDTO] ìƒí’ˆëª…: ê¸´ë°”ì§€, ê°€ê²©: 10000000, ì‚¬ì´ì¦ˆ: 12]
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[ì‹ ë°œ]ì´ë¦„: ìŠ¬ë¦¬í¼
+[ì‹ ë°œ]ì—…ë°ì´íŠ¸ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[ì‹ ë°œ]ì´ë¦„: ìŠ¬ë¦¬í¼
+[ì‹ ë°œ]ì„±ê³µì ìœ¼ë¡œ ì—…ë°ì´íŠ¸ë˜ì—ˆìŠµë‹ˆë‹¤.
+data count : 0
+intput: ìŠ¬ë¦¬í¼
+param: [ItemDTO] ìƒí’ˆëª…: ìŠ¬ë¦¬í¼, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null]
+outVO: [ItemDTO] ìƒí’ˆëª…: ìŠ¬ë¦¬í¼, ê°€ê²©: 2, ì‚¬ì´ì¦ˆ: 2]
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[í•˜ì˜]ì´ë¦„: ì²­ë°”ì§€
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[í•˜ì˜]ì´ë¦„: ì²­ë°”ì§€
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[í•˜ì˜]ì´ë¦„: ì²­ë°”ì§€
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[í•˜ì˜]ì´ë¦„: ì²­ë°”ì§€
+[í•˜ì˜]ì„±ê³µì ìœ¼ë¡œ ì—…ë°ì´íŠ¸ë˜ì—ˆìŠµë‹ˆë‹¤.
+data count : 0
+intput: ì²­ë°”ì§€
+param: 
+â—† ìƒí’ˆëª…: ì²­ë°”ì§€, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null â—†
+outVO: 
+â—† ìƒí’ˆëª…: ì²­ë°”ì§€, ê°€ê²©: 3, ì‚¬ì´ì¦ˆ: 3 â—†
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[í•˜ì˜]ì´ë¦„: ì²­ë°”ì§€
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[í•˜ì˜]ì´ë¦„: ì²­ë°”ì§€
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[í•˜ì˜]ì´ë¦„: ì²­ë°”ì§€
+[í•˜ì˜]ì„±ê³µì ìœ¼ë¡œ ì—…ë°ì´íŠ¸ë˜ì—ˆìŠµë‹ˆë‹¤.
+data count : 0
+intput: ì²­ë°”ì§€
+param: 
+â—†â—†â—† ìƒí’ˆëª…: ì²­ë°”ì§€, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null
+outVO: 
+â—†â—†â—† ìƒí’ˆëª…: ì²­ë°”ì§€, ê°€ê²©: 10, ì‚¬ì´ì¦ˆ: 10
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[í•˜ì˜]ì´ë¦„: ì²­ë°”ì§€
+[í•˜ì˜]ì„±ê³µì ìœ¼ë¡œ ì—…ë°ì´íŠ¸ë˜ì—ˆìŠµë‹ˆë‹¤.
+data count : 0
+intput: ì²­ë°”ì§€
+param: 
+â—†â—†â—† ìƒí’ˆëª…: ì²­ë°”ì§€, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null
+outVO: 
+â—†â—†â—† ìƒí’ˆëª…: ì²­ë°”ì§€, ê°€ê²©: 1, ì‚¬ì´ì¦ˆ: 1
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[ìƒì˜]ì´ë¦„: ë°˜íŒ”í‹°
+[ìƒì˜]ì„±ê³µì ìœ¼ë¡œ ì—…ë°ì´íŠ¸ë˜ì—ˆìŠµë‹ˆë‹¤.
+[ìƒì˜]ì„±ê³µì ìœ¼ë¡œ ì—…ë°ì´íŠ¸ë˜ì—ˆìŠµë‹ˆë‹¤.
+â—†â—†â—† ìƒí’ˆëª…: ë°˜íŒ”í‹°, ê°€ê²©: 1, ì‚¬ì´ì¦ˆ: 1
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+[í•˜ì˜]ì´ë¦„: ë°˜ë°”ì§€
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+removeë°˜ë°”ì§€
+param
+â—†â—†â—† ìƒí’ˆëª…: ë°˜ë°”ì§€, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null
+flag:0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+removeë°˜íŒ”í‹°
+param
+â—†â—†â—† ìƒí’ˆëª…: ë°˜íŒ”í‹°, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null
+flag:1
+data count : 0
+intput: ë°˜íŒ”í‹°
+param: 
+â—†â—†â—† ìƒí’ˆëª…: ë°˜íŒ”í‹°, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null
+outVO: null
+removeì²­ë°”ì§€
+param
+â—†â—†â—† ìƒí’ˆëª…: ì²­ë°”ì§€, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null
+flag:0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+removeì²­ë°”ì§€
+param
+â—†â—†â—† ìƒí’ˆëª…: ì²­ë°”ì§€, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null
+flag:0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+data count : 0
+data count : 0
+data countTop : 0
+data countBt  : 0
+data countOut  : 0
+data countHat  : 0
+data countSh  : 0
+removeë°˜íŒ”í‹°
+param
+â—†â—†â—† ìƒí’ˆëª…: ë°˜íŒ”í‹°, ê°€ê²©: 0, ì‚¬ì´ì¦ˆ: null
+flag:1
+data count : 0
