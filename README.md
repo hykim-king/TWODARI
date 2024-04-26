@@ -2,10 +2,10 @@
     > 0426. 오후 5시. 추가함 the-final
     > src 
     >> cmm (com.pcwk.ehr.cmn)
-      Category<T> == (Box<T>) , 카테고리(리스트)x5
-      CategoryO<T> 
-      CategoryShose<T>
-      CategoryTop<T>
+      //Category<T> == (Box<T>) , 카테고리(리스트)x5
+      //CategoryO<T> 
+      //CategoryShose<T>
+      //CategoryTop<T>
       DTO
       Item_Hat<T>  
       PLOG
@@ -15,6 +15,7 @@
      Framework ==(Main)
      ItemDao ==(memberDao) ---
      ItemDTO ==(memberDTO)
+     ItemController 
 
     > json file x5
     item_bt.json
